@@ -1,0 +1,4 @@
+void main() {
+    var int x = 5
+    print(x);
+}
